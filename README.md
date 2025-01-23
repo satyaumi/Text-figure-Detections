@@ -10,4 +10,4 @@ pinned: false
 
 ---
 
-[Try it on Hugging Face Spaces](https://huggingface.co/spaces/satyamlk/Emotion-Detection)
+[Try it on Hugging Face Spaces](https://huggingface.co/spaces/satyamlk/Text-Figure-Detection)
