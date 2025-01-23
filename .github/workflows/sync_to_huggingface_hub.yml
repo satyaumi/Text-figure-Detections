@@ -17,4 +17,4 @@ jobs:
       - name: Push to hub
         env:
           HF_TOKEN: ${{ secrets.HF_TOKEN }}
-        run: git push https://satyamlk:$HF_TOKEN@huggingface.co/spaces/satyamlk/Text-Figure-Detection main
+        run: git push --force https://satyamlk:$HF_TOKEN@huggingface.co/spaces/satyamlk/Text-Figure-Detection main
